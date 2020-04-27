@@ -16,4 +16,6 @@ for ($i = 0; $i < 2000; $i++) {
 
 }
 
+print '<a href="https://paiza.io/projects/daUsTK6Nj2YLU1pN8UD10w?language=php">play code</a>';
+
 echo microtime(true) - $mark;
